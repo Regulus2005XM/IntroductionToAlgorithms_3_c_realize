@@ -4,7 +4,7 @@ struct subarray
 	int right;
 	int sum;
 }
-void Find_Max_Crossing_Subarray(int A[], int low, int mid, int high, struct subarray)
+void Find_Max_Crossing_Subarray(int A[], int low, int mid, int high, subarray _subarray)
 {
 	int left_sum = INT_MIN;
 	int max_left;
@@ -30,7 +30,7 @@ void Find_Max_Crossing_Subarray(int A[], int low, int mid, int high, struct suba
 			max_right = j;
 		}
 	}
-	subarray.left = max_left;
-	subarray.right = max_right;
-	subarray.sum = left_sum + right_sum;
+	_subarray.left = max_left;
+	_subarray.right = max_right;
+	_subarray.sum = left_sum + right_sum;
 }
