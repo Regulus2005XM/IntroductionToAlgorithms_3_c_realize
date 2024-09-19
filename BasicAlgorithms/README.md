@@ -9,3 +9,5 @@ Merge_Sort归并排序
 Find_Max_Crossing_Subarray求解最大子数组问题的中间值步骤
 
 Find_Maximum_Subarray最大子数组问题(股票出入问题)
+
+On_line_Maximum雇佣问题
