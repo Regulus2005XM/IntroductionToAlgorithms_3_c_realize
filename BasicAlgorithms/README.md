@@ -1,1 +1,9 @@
 一些基本的排序算法等
+
+Insertion_Sort插入排序
+
+Merge归并排序的一步
+
+Merge_Sort归并排序
+
+Find_Max_Crossing_Subarray求解最大子数组问题的中间值步骤
