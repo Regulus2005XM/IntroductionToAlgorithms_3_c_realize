@@ -13,3 +13,5 @@ Counting_Sort计数排序
 Radix_Sort基数排序
 
 Bucket_Sort桶排序
+
+Max_Min_Array更快的找出最大值与最小值
