@@ -7,3 +7,5 @@ Heap_Sort堆排序，把数组化为最大堆并排序
 Quick_Sort快速排序
 
 Randomized_Quick_Sort随机化的快速排序
+
+Counting_Sort计数排序
