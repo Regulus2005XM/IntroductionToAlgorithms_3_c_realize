@@ -1,7 +1,7 @@
 # IntroductionToAlgorithms_3_c_realize
 《算法导论》书籍第三版的C语言实现，包含详细的注释。
 
- ![封面图片](Otherfile/titlepic.png)
+ ![封面图片](OtherFiles/titlepic.png)
 
 渐进上界与渐进下界：
 
