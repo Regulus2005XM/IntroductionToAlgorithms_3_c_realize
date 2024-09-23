@@ -1,7 +1,11 @@
 # IntroductionToAlgorithms_3_c_realize
-##《算法导论》书籍第三版的C语言实现，包含详细的注释。
+## 《算法导论》书籍第三版的C语言实现，包含详细的注释。
 
 <img src="OtherFiles/titlepic.png" alt="封面图片" width="300">
+
+[百度网盘分享文件](https://pan.baidu.com/s/1Ms49FihqXjuU3n785BTa-w?pwd=1145)
+
+永久有效，提取码1145
 
 渐进上界与渐进下界：
 
