@@ -3,8 +3,6 @@
 
 <img src="OtherFiles/titlepic.png" alt="封面图片" width="300">
 
- ![封面图片](OtherFiles/titlepic.png)
-
 渐进上界与渐进下界：
 
 $\Theta(g(n))=\{f(n):存在正常量c_1,c_2,n_0,使得对所有的n\geq n_0,有0\leq c_1g(n)\leq f(n)\leq c_2g(n)\}$
